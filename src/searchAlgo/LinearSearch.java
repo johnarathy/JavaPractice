@@ -1,4 +1,4 @@
-package com.qa.searchalgo;
+package searchAlgo;
 
 public class LinearSearch {
 

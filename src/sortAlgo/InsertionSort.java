@@ -1,4 +1,4 @@
-package com.qa.sortingalgos;
+package sortAlgo;
 
 public class InsertionSort {
 
