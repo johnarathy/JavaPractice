@@ -1,0 +1,15 @@
+logs
+ERROR,12:08,This is a Database Connection Failure
+INFO,12:00,This is an info
+WARN,12:05,This is a warning
+ERROR,12:12,This is a Database Connection Failure
+INFO,12:15,This is a DBError
+ERROR,12:20,this is some error
+ERROR,12:15 ,This is a Database Connection Failure
+ERROR,12:10,This is a Database Failure
+INFO,12:10,This is a Database Connection Failure
+ERROR,12:10,This is a Database Connection Failure
+ERROR,12:10,This is a Database Connection 
+INFO,12:10,This is a Database Connection Failure
+INFO,12:10,This is a Database Connection Failure
+INFO,12:10,This is a Database Connection Failure

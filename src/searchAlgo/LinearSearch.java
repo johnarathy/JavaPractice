@@ -19,5 +19,15 @@ public class LinearSearch {
 			System.out.println("not found");
 		}
 	}
+	
+	public int linearSrch(String[] iArr,String srch) {
+		boolean flag = false;
+		for(int i=0; i<iArr.length;i++) {
+			if(iArr[i].equals(srch)) {
+				return i;
+			}
+		}
+	return -1;
+	}
 
 }
